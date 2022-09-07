@@ -1,22 +1,22 @@
-# [rsschool-cv](https://github.com/KaraninS/rsschool-cv/)
+# **[rsschool-cv](https://github.com/KaraninS/rsschool-cv/)**
 
-# Serhii Karanin
+# **Serhii Karanin**
 
-## Contacts
+## **Contacts**
 
 - **Location:** Ukraine, Dnipro
 - **Email:** serjkaranin@gmail.com
-- **GitHub:** [rsschool-cv](https://github.com/KaraninS/rsschool-cv/)
+- **GitHub:** [KaraninS](https://github.com/KaraninS/)
 
 ---
 
-## About Me
+## **About Me**
 
-My name is Serhii. I am 31 years old. I was born in Ukraine and I live in Krivoy Rog now. I am mariied. my wife's name is Kristina and we have a daughter, Valeria. I graduated from the National Metallurgical Academy of Ukraine in 2013. I am cerrently studying at the GoIT. I am interesting website development and want to be a good programmer and develop in this direction.
+My name is Serhii. I am 31 years old. I was born in Ukraine and I live in Krivoy Rog now. I am mariied. My wife's name is Kristina and we have a daughter, Valeria. I graduated from the National Metallurgical Academy of Ukraine in 2013. I am cerrently studying at the GoIT. I am interesting website development and want to be a good programmer and develop in this direction.
 
 ---
 
-## Skills
+## **Skills**
 
 - HTML5/CSS3/SASS
 - Git
@@ -25,7 +25,7 @@ My name is Serhii. I am 31 years old. I was born in Ukraine and I live in Krivoy
 
 ---
 
-## Code Example
+## **Code Example**
 
 ```
 const colors = [
@@ -37,7 +37,7 @@ const colors = [
 
 const hexColors = [];
 const rgbColors = [];
-// Change code below this line
+
 for ( const color of colors ){
 hexColors.push(color.hex)
 rgbColors.push(color.rgb)
@@ -46,3 +46,9 @@ rgbColors.push(color.rgb)
 ```
 
 ---
+
+## Languages
+
+- **Ukraine** - native speaker.
+- **Russian** - speak and write.
+- **English** - learn (in process... =))
